@@ -1,8 +1,11 @@
 name: percent_helper
 description: A helper for percent layout.
 version: 0.0.1
-author:
-homepage:
+author: xuexin<taiyangniaoming@foxmail.com>
+homepage: https://github.com/xuexin/percent_helper
+
+environment:
+  sdk: ">=1.23.0 <2.0.0"
 
 dependencies:
   flutter:
