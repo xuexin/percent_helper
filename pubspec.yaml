@@ -4,6 +4,9 @@ version: 0.1.0
 author: xuexin<taiyangniaoming@foxmail.com>
 homepage: https://github.com/xuexin/percent_helper
 
+environment:
+  sdk: '>=2.0.0-dev.52.0 <3.0.0'
+
 dependencies:
   flutter:
     sdk: flutter
